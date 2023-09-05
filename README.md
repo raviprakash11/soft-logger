@@ -1,6 +1,6 @@
-## SOFT-LOGGER
+# SOFT-LOGGER
 
-# Description:
+## Description:
 <p>Soft Logger is a robust open-source Java Maven project designed to simplify and enhance automation execution log management. As a software engineer with a passion for Application Development and Data Science, you understand the importance of efficient log tracking in the software development process. Soft Logger is your solution to streamline and organize automation execution logs effectively.</p>
 
 ## Key Features:
