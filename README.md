@@ -30,7 +30,7 @@ Enhance the efficiency and accuracy of log tracking during automation testing.
 Provide a customizable and user-friendly solution for software engineers like you who value clean and organized logs.
 Soft Logger is more than just a log management tool; it's a project tailored to meet the specific needs of software engineers and developers like you. With Soft Logger, you can focus on what matters most—building robust and efficient software applications while ensuring that your log data is handled with precision and care. Get started with Soft Logger and take control of your automation execution logs today! 🔧📊 #SoftLogger #AutomationLogs #JavaMaven</p>
 
-## Steps to used it - 
+## Setup steps - 
 ### Step 1:
 Clone the repo
 ### Step 2:
