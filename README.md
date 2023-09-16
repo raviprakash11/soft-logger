@@ -5,17 +5,23 @@
 
 ## Key Features:
 
-<p>Log Management: Soft Logger provides a comprehensive system for recording, storing, and managing automation execution logs. It allows you to capture critical information, errors, and performance data during automated testing and execution.</p>
+### Log Management: 
+<p> Soft Logger provides a comprehensive system for recording, storing, and managing automation execution logs. It allows you to capture critical information, errors, and performance data during automated testing and execution.</p>
 
-<p>Customization: Tailor Soft Logger to your specific needs. You can configure the logging parameters, log levels, and output formats to ensure that it aligns perfectly with your project requirements.</p>
+### Customization:
+<p> Tailor Soft Logger to your specific needs. You can configure the logging parameters, log levels, and output formats to ensure that it aligns perfectly with your project requirements.</p>
 
-<p>Integration: Seamlessly integrate Soft Logger into your Java Maven projects. Its compatibility with popular automation frameworks and testing tools makes it an invaluable addition to your automation pipeline.</p>
+### Integration:
+<p> Seamlessly integrate Soft Logger into your Java Maven projects. Its compatibility with popular automation frameworks and testing tools makes it an invaluable addition to your automation pipeline.</p>
 
-<p>Real-time Monitoring: Stay informed about your automation processes in real-time. Soft Logger enables you to monitor logs as they are generated, helping you identify issues and troubleshoot quickly.</p>
+### Real-time Monitoring:
+<p> Stay informed about your automation processes in real-time. Soft Logger enables you to monitor logs as they are generated, helping you identify issues and troubleshoot quickly.</p>
 
-<p>Data Analysis: For someone interested in Data Science, Soft Logger provides easy access to the log data. You can use this data for in-depth analysis and gain insights into the performance and behavior of your automated tests.</p>
+### Data Analysis:
+<p> For someone interested in Data Science, Soft Logger provides easy access to the log data. You can use this data for in-depth analysis and gain insights into the performance and behavior of your automated tests.</p>
 
-<p>Security: Soft Logger prioritizes data security. You can implement access controls and encryption to protect sensitive log information.</p>
+### Security:
+<p> Soft Logger prioritizes data security. You can implement access controls and encryption to protect sensitive log information.</p>
 
 ## Goals:
 
